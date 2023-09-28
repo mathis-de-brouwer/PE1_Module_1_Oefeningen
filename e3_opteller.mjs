@@ -9,6 +9,7 @@ const userInput = readline.createInterface({input, output});
 
 // Voeg hier je eigen code in
 
+//H1 hard challenge
 let dag = parseFloat(86400);
 let uur = parseFloat(3600);
 let minuten = parseFloat(60);
